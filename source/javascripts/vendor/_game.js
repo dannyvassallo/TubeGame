@@ -27,7 +27,7 @@ for (i=0; i<7; i++) Pic[i]= new Array(2);
 for (i=0; i<7; i++)
 { for (j=0; j<2; j++)
   { Pic[i][j] = new Image();
-    Pic[i][j].src = "chinesecheckers"+i+""+j+".gif";
+    Pic[i][j].src = "images/chinesecheckers"+i+""+j+".gif";
   }  
 }
 
